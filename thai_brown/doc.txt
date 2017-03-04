@@ -7,6 +7,10 @@ npn นามวลี  (noun phrase)
 idm สำนวน
 sym สัญสักษณ์
 ppos = Possessive Adjective คุณศัพท์แสดงความเป็นเจ้าของ
+pper 
+vpost
+prev
+prec ร่วมกัน  ทำมากกว่า2คนพร้อมกัน
 ncn = Non Count Nouns นามนับไม่ได้
 nnum จำนวน
 conj สันธาน
