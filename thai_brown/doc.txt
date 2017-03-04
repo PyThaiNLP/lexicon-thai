@@ -1,0 +1,13 @@
+เอกสาร
+
+vt หมายถึง Verb Transitive สกรรมกริยา
+vi = Intransitive Verb อกรรมกริยา 
+adj = Adjective คำวิเศษณ์
+npn นามวลี  (noun phrase)
+idm สำนวน
+sym สัญสักษณ์
+ppos = Possessive Adjective คุณศัพท์แสดงความเป็นเจ้าของ
+ncn = Non Count Nouns นามนับไม่ได้
+nnum จำนวน
+conj สันธาน
+prep คำบุพบท
