@@ -11,6 +11,7 @@ pper
 vpost
 prev
 prec ร่วมกัน  ทำมากกว่า2คนพร้อมกัน
+det ตัวบอกกำหนด (Determiner)
 ncn = Non Count Nouns นามนับไม่ได้
 nnum จำนวน
 conj สันธาน
