@@ -8,11 +8,11 @@ idm สำนวน
 sym สัญสักษณ์
 ppos = Possessive Adjective คุณศัพท์แสดงความเป็นเจ้าของ
 pper 
-vpost
+vpost คำกริยาช่วย
 prev
 prec ร่วมกัน  ทำมากกว่า2คนพร้อมกัน
 det ตัวบอกกำหนด (Determiner)
-ncn = Non Count Nouns นามนับไม่ได้
+ncn คือ สามัญนาม
 nnum จำนวน
 conj สันธาน
 prep คำบุพบท
