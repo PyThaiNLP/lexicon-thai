@@ -1,1 +1,2 @@
-1.txt http://www.thaigov.go.th/news/contents/details/2925
+1.txt แถลงการณ์ของ พลเอก ประยุทธ์ จันทร์โอชา นายกรัฐมนตรี เรื่อง การประกาศใช้รัฐธรรมนูญ http://www.thaigov.go.th/news/contents/details/2925
+2.txt 30 พฤศจิกายน 2559  http://www.thaigov.go.th/news/contents/details/958
