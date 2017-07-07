@@ -1,12 +1,12 @@
-# Thai Sentiment Text
+# Thai clickbait
 
-คลังข้อมูลสำหรับ Sentiment ภาษาไทย
+หัวข้อ clickbait ในภาษาไทย
 
-โดย นาย วรรณพงษ์  ภัททิยไพบูลย์
 
-thai text of positive and negative. 
 
-ช่วยกรอกข้อมูลได้ที่ https://goo.gl/forms/7JccnQQ7cxefZRLs2
+### ร่วมพัฒนา
+
+fork ไปเพิ่มชื่อลงไปในไฟล์ แล้ว ส่ง Pull requests กลับมายัง lexicon-thai
 
 
 

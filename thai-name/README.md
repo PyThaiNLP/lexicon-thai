@@ -1,12 +1,16 @@
-# Thai Sentiment Text
+# Thai Name
 
-คลังข้อมูลสำหรับ Sentiment ภาษาไทย
+Thai name in thai lang.
 
-โดย นาย วรรณพงษ์  ภัททิยไพบูลย์
+ฐานข้อมูลชื่อคนไทย ในภาษาไทย แยกตามเพศ จากการเก็บข้อมูลจากเว็บไซต์ต่าง ๆ
 
-thai text of positive and negative. 
+ข้อมูลโดย นาย วรรณพงษ์  ภัททิยไพบูลย์
 
-ช่วยกรอกข้อมูลได้ที่ https://goo.gl/forms/7JccnQQ7cxefZRLs2
+
+
+### ร่วมพัฒนา
+
+fork ไปเพิ่มชื่อลงไปในไฟล์ แล้ว ส่ง Pull requests กลับมายัง lexicon-thai
 
 
 
