@@ -6,6 +6,10 @@
 
 ร่วมกรอกข้อมูลได้ที่ https://goo.gl/forms/C7SXRL4XHAbebi4z2
 
+ไฟล์
+
+- high.txt ระดับสูง ห้ามใช้เด็ดขาด
+
 
 
 ฐานข้อมูลทั้งหมดในนี้ใช้[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
