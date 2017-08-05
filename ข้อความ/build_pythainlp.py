@@ -28,16 +28,23 @@ with codecs.open('neutral.txt', 'r', "utf-8") as f:
     lines = f.readlines()
 listneutral=[e.strip() for e in lines]
 f.close() # ปิดไฟล์
+print(1)
 pos1=['pos']*len(listpos)
 neg1=['neg']*len(listneg)
 neutral1=['neutral']*len(listneutral)
+print(2)
 training_data = list(zip(listpos,pos1)) + list(zip(listneg,neg1))+ list(zip(listneutral,neutral1))
+print(3)
 vocabulary = set(chain(*[x for x in a if x not in [word_tokenize(i[0],'mm') for i in training_data]]))
+print(3.1)
 feature_set = [({i:(i in word_tokenize(sentence,'mm')) for i in vocabulary},tag) for sentence, tag in training_data]
+print(4)
 classifier = nbc.train(feature_set)
+print(5)
 with open('vocabulary.data', 'wb') as out_strm: 
     dill.dump(vocabulary,out_strm)
 out_strm.close()
 with open('sentiment.data', 'wb') as out_strm: 
     dill.dump(classifier,out_strm)
 out_strm.close()
+print('OK')
