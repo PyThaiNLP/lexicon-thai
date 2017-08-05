@@ -8,8 +8,10 @@
 from nltk import NaiveBayesClassifier as nbc
 import dill
 from pythainlp.tokenize import word_tokenize
+from pythainlp.corpus import stopwords
 import codecs
 from itertools import chain
+a = stopwords.words('thai')
 # pos.txt
 with codecs.open('pos.txt', 'r', "utf-8") as f:
     lines = f.readlines()
@@ -30,8 +32,8 @@ pos1=['pos']*len(listpos)
 neg1=['neg']*len(listneg)
 neutral1=['neutral']*len(listneutral)
 training_data = list(zip(listpos,pos1)) + list(zip(listneg,neg1))+ list(zip(listneutral,neutral1))
-vocabulary = set(chain(*[word_tokenize(i[0].lower()) for i in training_data]))
-feature_set = [({i:(i in word_tokenize(sentence.lower())) for i in vocabulary},tag) for sentence, tag in training_data]
+vocabulary = set(chain(*[x for x in a if x not in [word_tokenize(i[0],'mm') for i in training_data]]))
+feature_set = [({i:(i in word_tokenize(sentence,'mm')) for i in vocabulary},tag) for sentence, tag in training_data]
 classifier = nbc.train(feature_set)
 with open('vocabulary.data', 'wb') as out_strm: 
     dill.dump(vocabulary,out_strm)
