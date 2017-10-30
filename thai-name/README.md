@@ -12,6 +12,11 @@ Thai name in thai lang.
 
 fork ไปเพิ่มชื่อลงไปในไฟล์ แล้ว ส่ง Pull requests กลับมายัง lexicon-thai
 
+### Contributions
+
+- Pisit Nakjai (@beebrain)
+
+- kamol (@kamolcu)
 
 
 ฐานข้อมูลนี้ใช้[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
