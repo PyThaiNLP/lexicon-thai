@@ -1,0 +1,34 @@
+You are a student.,คุณเป็นนักเรียน
+I like you too.,ฉันชอบคุณเหมือนกัน
+My sister is taller than I am.,พี่สาวสูงกว่าฉัน
+I am walking.,ฉันกำลังเดิน
+What is this?,นี่คืออะไร?
+Let's sleep!,นอนกันเถอะ
+thank you,ขอบคุณ
+Welcome,ยินดีต้อนรับ
+How are you?,คุณเป็นอย่างไรบ้าง?
+Where are you from?,คุณมาจากที่ไหน?
+Pleased to meet you.,ยินดีที่ได้รู้จักคุณ
+Good night,ราตรีสวัสดิ์
+Goodbye,ลาก่อน
+Good luck!,ขอให้โชคดี
+I don't know.,ฉันไม่รู้
+I understand.,ฉันเข้าใจ
+Help!,ช่วยเหลือ
+Do you understand?,คุณเข้าใจไหม?
+I will do my best.,ฉันจะทำให้ดีที่สุด
+I love you.,ฉันรักคุณ
+I can't wait to see you again.,ฉันรอที่จะพบเธอไม่ไหวแล้ว
+My size is the same as you.,ไซส์ของฉันเหมือนกับคุณ
+My assignment isn’t the same as you.,งานที่ได้รับมอบหมายของฉันไม่เหมือนกับคุณ
+I have the same shoes as you.,ฉันมีรองเท้าเหมือนกับคุณเลย
+You use the same mobile phone as me.,คุณใช้โทรศัพท์มือถือเหมือนกับฉันเลย
+My worry is like yours.,ความกังวลของฉันก็เหมือนกับคุณ
+He is really like his father.,เขาเหมือนกับพ่อของเขามากๆ
+The three sisters look very alike.,พี่น้องสามคนนั้นดูเหมือนกันมากเลย
+Our bags are very similar.,กระเป๋าของพวกเราคล้ายกันมากๆ
+Your face is similar to my ex.,หน้าของคุณเหมือนแฟนเก่าฉันเลย
+Her new bag is similar to yours.,กระเป๋าใบใหม่ของหล่อนคล้ายกับของคุณเลย
+Do you want to go for a drink sometime?,คุณอยากจะออกไปดื่มอะไรบ้างไหม
+Would yu like going to see a movie somtime?,คุณอยากไปดูหนังด้วยกันสักครั้งไหม
+Would you like to join me for a coffee?,คุณอยากจะไปดื่มกาแฟกับฉันไหม
