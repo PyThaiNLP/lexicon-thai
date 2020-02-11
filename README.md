@@ -26,8 +26,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 กรุณาทำตาม Creative Commons Attribution-ShareAlike 4.0 International Public License
 
-
-
-ฐานข้อมูลนี้และฐานข้อมูลอื่น ๆ ใน lexicon-thai ไม่มีส่วนเกี่ยวข้องกับภาครัฐและไม่มีสิ่งเกี่ยวข้องกับ Thailand 4.0 **ห้ามแอบอ้าง**
-
 อีเมล : wannaphong@kkumail.com
