@@ -18,6 +18,7 @@ Thai Abbreviation
 | อ.       | อาจารย์   | คำนำหน้า\|บุคคล                     |
 | ดร.      | ด็อกเตอร์ | คำนำหน้า\|บุคคล                     |
 | ด.ช.     | เด็กชาย   | คำนำหน้า\|บุคคล                     |
+| ด.ญ.     | เด็กหญิง   | คำนำหน้า\|บุคคล                    |
 
 
 ฐานข้อมูลทั้งหมดในนี้ใช้[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
