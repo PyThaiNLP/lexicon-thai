@@ -1,5 +1,7 @@
 # Grapheme to Phoneme (G2P) ภาษาไทย
 
+**This project moves to [https://github.com/PyThaiNLP/thai-g2p-wiktionary-corpus](https://github.com/PyThaiNLP/thai-g2p-wiktionary-corpus).**
+
 ## ตัวอย่าง
 | Word | Phonemes |
 |------|----------|
